@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://newsletter.systemdesign.one/">
-    :newspaper: Newsletter
+    :newspaper: Try Newsletter
   </a>
 </p>
 
