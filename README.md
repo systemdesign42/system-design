@@ -34,3 +34,4 @@
 - [URL Shortener](https://systemdesign.one/url-shortening-system-design/)
 
 
+[linkedin-url]: https://www.linkedin.com/in/nk-systemdesign-one/
