@@ -1,13 +1,10 @@
-# system-design
-
 <p>
-  <a href="https://newsletter.systemdesign.one/"><img src="https://i.imgur.com/tMfqxvp.png" /> </a>
+  <a href="https://newsletter.systemdesign.one/"><img src="https://i.imgur.com/MCWslHL.png" /> </a>
 </p>
 
 <p align="center">
-
   <a href="https://newsletter.systemdesign.one/">
-    📮 Newsletter
+    :newspaper: Newsletter
   </a>
 </p>
 
