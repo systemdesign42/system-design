@@ -8,6 +8,7 @@
   </a>
 </p>
 
+## Easy
 
 - [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
@@ -22,6 +23,8 @@
 - [System Design Interview Cheat Sheet](https://systemdesign.one/system-design-interview-cheatsheet/)
 
 
+## Deep Dive
+
 - [Slack Architecture](https://systemdesign.one/slack-architecture/)
 - [Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 - [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
@@ -29,3 +32,5 @@
 - [Real-Time Gaming Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Pastebin](https://systemdesign.one/system-design-pastebin/)
 - [URL Shortener](https://systemdesign.one/url-shortening-system-design/)
+
+
