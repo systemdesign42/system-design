@@ -57,7 +57,7 @@
 - [Bloom Filter](https://systemdesign.one/bloom-filters-explained/)
 
 
-## Deep Dive
+## Deep Dives
 
 - [Slack Architecture](https://systemdesign.one/slack-architecture/)
 - [Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
