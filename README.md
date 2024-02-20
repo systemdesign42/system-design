@@ -34,4 +34,7 @@
 - [URL Shortener](https://systemdesign.one/url-shortening-system-design/)
 
 
-[linkedin-url]: https://www.linkedin.com/in/nk-systemdesign-one/
+## Misc
+
+- [Software Engineer Interview Learning Resources](https://systemdesign.one/software-engineer-interview-learning-resources/)
+- [System Design Interview Cheat Sheet](https://systemdesign.one/system-design-interview-cheatsheet/)
