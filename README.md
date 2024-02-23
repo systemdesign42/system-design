@@ -8,6 +8,8 @@
   </a>
 </p>
 
+# System Design
+
 ## Case Studies
 
 - [How Uber Computes ETA at Half a Million Requests per Second](https://newsletter.systemdesign.one/p/uber-eta)
