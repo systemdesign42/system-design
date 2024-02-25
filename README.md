@@ -23,6 +23,11 @@
 
 ## System Design Case Study
 
+#### A companies
+
+- [This Is How Airbnb Adopted HTTP Streaming to Save 84 Million USD in Costs](https://newsletter.systemdesign.one/p/what-is-critical-rendering-path)
+- [Amazon Prime Video Microservices Top Failure](https://newsletter.systemdesign.one/p/prime-video-microservices)
+
 #### C companies
 
 - [How Canva Supports Real-Time Collaboration for 135 Million Monthly Users](https://newsletter.systemdesign.one/p/rsocket)
@@ -31,41 +36,53 @@
 #### D companies
 
 - [How Disney+ Hotstar Delivered 5 Billion Emojis in Real Time](https://newsletter.systemdesign.one/p/hotstar-architecture)
+- [How Disney+ Hotstar Scaled to 25 Million Concurrent Users](https://newsletter.systemdesign.one/p/hotstar-scaling)
+
+#### G companies
+
+- [How Giphy Delivers 10 Billion GIFs a Day to 1 Billion Users](https://newsletter.systemdesign.one/p/cdn-explained)
 
 #### H companies
 
 - [How Hashnode Generates Feed at Scale](https://newsletter.systemdesign.one/p/feed-architecture)
+
+#### L companies
+
+- [How LinkedIn Scaled to 930 Million Users](https://newsletter.systemdesign.one/p/scalable-software-architecture)
+- [How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%](https://newsletter.systemdesign.one/p/protocol-buffers-vs-json)
+- [Tech Stack Evolution at Levels fyi](https://newsletter.systemdesign.one/p/levels-fyi-google-sheets)
+
+#### N companies
+
+- [How Does Netflix Work?](https://newsletter.systemdesign.one/p/how-does-netflix-work)
+
+#### Q companies
+
+- [This Is How Quora Shards MySQL to Handle 13+ Terabytes](https://newsletter.systemdesign.one/p/mysql-sharding)
+
+#### S companies
+
+- [Virtual Waiting Room Architecture That Handles High-Demand Ticket Sales at SeatGeek](https://newsletter.systemdesign.one/p/virtual-waiting-room)
+- [How Shopify Handles Flash Sales at 32 Million Requests per Minute](https://newsletter.systemdesign.one/p/shopify-flash-sale)
+- [This Is How Stripe Does Rate Limiting to Build Scalable APIs](https://newsletter.systemdesign.one/p/rate-limiter)
 
 #### U companies
 
 - [How Uber Computes ETA at Half a Million Requests per Second](https://newsletter.systemdesign.one/p/uber-eta)
 - [How Uber Finds Nearby Drivers at 1 Million Requests per Second](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers)
 
-#### V companies
+#### W companies
 
-- [Virtual Waiting Room Architecture That Handles High-Demand Ticket Sales at SeatGeek](https://newsletter.systemdesign.one/p/virtual-waiting-room)
+- [8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
+- [Wechat Architecture That Powers 1.67 Billion Monthly Users](https://newsletter.systemdesign.one/p/chat-application-architecture)
+
+#### Y companies
+
+- [11 Reasons Why YouTube Was Able to Support 100 Million Video Views a Day With Only 9 Engineers](https://newsletter.systemdesign.one/p/youtube-scalability)
 
 #### Z companies
 
 - [5 Reasons Why Zoom Was Able to Support 300 Million Video Calls a Day](https://newsletter.systemdesign.one/p/zoom-architecture)
-
-
-- [How Does Netflix Work?](https://newsletter.systemdesign.one/p/how-does-netflix-work)
-- [Wechat Architecture That Powers 1.67 Billion Monthly Users](https://newsletter.systemdesign.one/p/chat-application-architecture)
-- [How Shopify Handles Flash Sales at 32 Million Requests per Minute](https://newsletter.systemdesign.one/p/shopify-flash-sale)
-- [How LinkedIn Scaled to 930 Million Users](https://newsletter.systemdesign.one/p/scalable-software-architecture)
-- [This Is How Airbnb Adopted HTTP Streaming to Save 84 Million USD in Costs](https://newsletter.systemdesign.one/p/what-is-critical-rendering-path)
-- [How Giphy Delivers 10 Billion GIFs a Day to 1 Billion Users](https://newsletter.systemdesign.one/p/cdn-explained)
-- [How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%](https://newsletter.systemdesign.one/p/protocol-buffers-vs-json)
-- [This Is How Stripe Does Rate Limiting to Build Scalable APIs](https://newsletter.systemdesign.one/p/rate-limiter)
-- [Tech Stack Evolution at Levels fyi](https://newsletter.systemdesign.one/p/levels-fyi-google-sheets)
-- [How Disney+ Hotstar Scaled to 25 Million Concurrent Users](https://newsletter.systemdesign.one/p/hotstar-scaling)
-- [11 Reasons Why YouTube Was Able to Support 100 Million Video Views a Day With Only 9 Engineers](https://newsletter.systemdesign.one/p/youtube-scalability)
-- [Amazon Prime Video Microservices Top Failure](https://newsletter.systemdesign.one/p/prime-video-microservices)
-- [This Is How Quora Shards MySQL to Handle 13+ Terabytes](https://newsletter.systemdesign.one/p/mysql-sharding)
-- [8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
-
-  
 
 ## Fundamentals
 
