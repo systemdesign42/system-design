@@ -27,8 +27,13 @@
 
 #### A companies
 
+- [How to Scale an App to 10 Million Users on AWS](https://newsletter.systemdesign.one/p/aws-scale)
 - [This Is How Airbnb Adopted HTTP Streaming to Save 84 Million USD in Costs](https://newsletter.systemdesign.one/p/what-is-critical-rendering-path)
 - [Amazon Prime Video Microservices Top Failure](https://newsletter.systemdesign.one/p/prime-video-microservices)
+
+#### B companies
+
+- [Bitly URL Shortener](https://systemdesign.one/url-shortening-system-design/)
 
 #### C companies
 
@@ -39,6 +44,7 @@
 
 - [How Disney+ Hotstar Delivered 5 Billion Emojis in Real Time](https://newsletter.systemdesign.one/p/hotstar-architecture)
 - [How Disney+ Hotstar Scaled to 25 Million Concurrent Users](https://newsletter.systemdesign.one/p/hotstar-scaling)
+- [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
 
 #### G companies
 
@@ -57,6 +63,12 @@
 #### N companies
 
 - [How Does Netflix Work?](https://newsletter.systemdesign.one/p/how-does-netflix-work)
+- [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
+
+#### P companies
+
+- [How PayPal Was Able to Support a Billion Transactions per Day With Only 8 Virtual Machines](https://newsletter.systemdesign.one/p/actor-model)
+- [Pastebin](https://systemdesign.one/system-design-pastebin/)
 
 #### Q companies
 
@@ -64,9 +76,15 @@
 
 #### S companies
 
+- [Slack Architecture](https://systemdesign.one/slack-architecture/)
 - [Virtual Waiting Room Architecture That Handles High-Demand Ticket Sales at SeatGeek](https://newsletter.systemdesign.one/p/virtual-waiting-room)
 - [How Shopify Handles Flash Sales at 32 Million Requests per Minute](https://newsletter.systemdesign.one/p/shopify-flash-sale)
 - [This Is How Stripe Does Rate Limiting to Build Scalable APIs](https://newsletter.systemdesign.one/p/rate-limiter)
+
+#### T companies
+
+- [Tumblr Shares Database Migration Strategy With 60+ Billion Rows](https://newsletter.systemdesign.one/p/how-to-migrate-a-mysql-database)
+- [6 Proven Guidelines on Open Sourcing From Tumblr](https://newsletter.systemdesign.one/p/open-source-guidelines)
 
 #### U companies
 
@@ -86,6 +104,7 @@
 
 - [5 Reasons Why Zoom Was Able to Support 300 Million Video Calls a Day](https://newsletter.systemdesign.one/p/zoom-architecture)
 - [How Zapier Automates Billions of Tasks](https://newsletter.systemdesign.one/p/zapier-architecture)
+
 
 ## Fundamentals
 
@@ -111,14 +130,10 @@
 
 ## Deep Dives
 
-- [Slack Architecture](https://systemdesign.one/slack-architecture/)
 - [Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 - [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
 - [Real-Time Live Comments](https://systemdesign.one/live-comment-system-design/)
 - [Real-Time Gaming Leaderboard](https://systemdesign.one/leaderboard-system-design/)
-- [Pastebin](https://systemdesign.one/system-design-pastebin/)
-- [URL Shortener](https://systemdesign.one/url-shortening-system-design/)
-
 
 ## Miscellaneous
 
@@ -126,12 +141,8 @@
 - [How to Troubleshoot if You Can’t Access a Particular Website?](https://systemdesign.one/how-to-troubleshoot-if-you-cannot-access-a-website/)
 - [What Happens When You Type a URL Into Your Browser?](https://systemdesign.one/what-happens-when-you-type-url-into-your-browser/)
 - [System Design Interview Cheat Sheet](https://systemdesign.one/system-design-interview-cheatsheet/)
-- [6 Proven Guidelines on Open Sourcing From Tumblr](https://newsletter.systemdesign.one/p/open-source-guidelines)
-- [Tumblr Shares Database Migration Strategy With 60+ Billion Rows](https://newsletter.systemdesign.one/p/how-to-migrate-a-mysql-database)
 - [Software Engineer Interview Learning Resources](https://systemdesign.one/software-engineer-interview-learning-resources/)
 - [7 Simple Ways to Fail System Design Interview](https://newsletter.systemdesign.one/p/design-system-newsletter)
-
-
 
 
 ## License
