@@ -19,6 +19,8 @@
 | [I](#i-companies)  | [J](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [M](#m-companies)  | [N](#n-companies)  | [O](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
 | [R](#r-companies)  | [S](#s-companies)  | [T](#t-companies)  | [U](#u-companies)  | [V](#v-companies)  | [W](#w-companies)  | [X](#x-companies)  | [Y](#y-companies)  | [Z](#z-companies)   |
 
+---
+
 # System Design
 
 ## System Design Case Study
