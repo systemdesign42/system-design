@@ -9,9 +9,17 @@
   :cherries:
 </p>
 
+### [System Design Case Study](#companies-1)
+
+|     |     |     |     |     |     |     |     |     |
+|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
+| [#](#-companies)  | [A](#a-companies)  | [B](#b-companies)  | [C](#c-companies)  | [D](#d-companies)  | [E](#e-companies)  | [F](#f-companies)  | [G](#g-companies)  | [H](#h-companies)  |
+| [I](#i-companies)  | [J](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [M](#m-companies)  | [N](#n-companies)  | [O](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
+| [R](#r-companies)  | [S](#s-companies)  | [T](#t-companies)  | [U](#u-companies)  | [V](#v-companies)  | [W](#w-companies)  | [X](#x-companies)  | [Y](#y-companies)  | [Z](#z-companies)   |
+
 # System Design
 
-## Case Studies
+## System Design Case Study
 
 - [How Uber Computes ETA at Half a Million Requests per Second](https://newsletter.systemdesign.one/p/uber-eta)
 - [How Canva Supports Real-Time Collaboration for 135 Million Monthly Users](https://newsletter.systemdesign.one/p/rsocket)
