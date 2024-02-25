@@ -23,16 +23,33 @@
 
 ## System Design Case Study
 
+#### C companies
+
+- [How Canva Supports Real-Time Collaboration for 135 Million Monthly Users](https://newsletter.systemdesign.one/p/rsocket)
+- [How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters](https://newsletter.systemdesign.one/p/postgresql-scalability)
+
+#### D companies
+
+- [How Disney+ Hotstar Delivered 5 Billion Emojis in Real Time](https://newsletter.systemdesign.one/p/hotstar-architecture)
+
+#### H companies
+
+- [How Hashnode Generates Feed at Scale](https://newsletter.systemdesign.one/p/feed-architecture)
+
 #### U companies
 
 - [How Uber Computes ETA at Half a Million Requests per Second](https://newsletter.systemdesign.one/p/uber-eta)
-- [How Canva Supports Real-Time Collaboration for 135 Million Monthly Users](https://newsletter.systemdesign.one/p/rsocket)
-- [How Disney+ Hotstar Delivered 5 Billion Emojis in Real Time](https://newsletter.systemdesign.one/p/hotstar-architecture)
-- [How Hashnode Generates Feed at Scale](https://newsletter.systemdesign.one/p/feed-architecture)
-- [How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters](https://newsletter.systemdesign.one/p/postgresql-scalability)
 - [How Uber Finds Nearby Drivers at 1 Million Requests per Second](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers)
+
+#### V companies
+
 - [Virtual Waiting Room Architecture That Handles High-Demand Ticket Sales at SeatGeek](https://newsletter.systemdesign.one/p/virtual-waiting-room)
+
+#### Z companies
+
 - [5 Reasons Why Zoom Was Able to Support 300 Million Video Calls a Day](https://newsletter.systemdesign.one/p/zoom-architecture)
+
+
 - [How Does Netflix Work?](https://newsletter.systemdesign.one/p/how-does-netflix-work)
 - [Wechat Architecture That Powers 1.67 Billion Monthly Users](https://newsletter.systemdesign.one/p/chat-application-architecture)
 - [How Shopify Handles Flash Sales at 32 Million Requests per Minute](https://newsletter.systemdesign.one/p/shopify-flash-sale)
