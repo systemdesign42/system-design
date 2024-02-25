@@ -125,18 +125,30 @@
 
 ## System Design Fundamentals
 
+#### \# technologies
+
+#### A technologies
+
+- [Actor Model](https://newsletter.systemdesign.one/p/actor-model)
+
+#### C technologies
+
 - [Cell Based Architecture](https://newsletter.systemdesign.one/p/cell-based-architecture)
+- [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
+- [Top 5 Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
+- [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
+
+#### K technologies
+
+
+
 - [How to Scale an App to 10 Million Users on AWS](https://newsletter.systemdesign.one/p/aws-scale)
 - [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
-- [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [Gossip Protocol](https://systemdesign.one/gossip-protocol/)
 - [Service Discovery](https://systemdesign.one/what-is-service-discovery/)
 - [Consistent Hashing](https://systemdesign.one/consistent-hashing-explained/)
-- [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
 - [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
-- [Top 5 Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
 - [Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
-- [Actor Model](https://newsletter.systemdesign.one/p/actor-model)
 
 
 ## Data Structures
