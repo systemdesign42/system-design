@@ -25,6 +25,13 @@
 
 ## System Design Case Study
 
+#### \# companies
+
+- [Real-Time Gaming Leaderboard](https://systemdesign.one/leaderboard-system-design/)
+- [Real-Time Live Comments](https://systemdesign.one/live-comment-system-design/)
+- [Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
+- [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
+
 #### A companies
 
 - [How to Scale an App to 10 Million Users on AWS](https://newsletter.systemdesign.one/p/aws-scale)
@@ -127,13 +134,6 @@
 - [Quotient Filter](https://systemdesign.one/quotient-filter-explained/)
 - [Bloom Filter](https://systemdesign.one/bloom-filters-explained/)
 
-
-## Deep Dives
-
-- [Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
-- [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
-- [Real-Time Live Comments](https://systemdesign.one/live-comment-system-design/)
-- [Real-Time Gaming Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 
 ## Miscellaneous
 
