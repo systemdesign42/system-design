@@ -85,6 +85,7 @@
 #### Z companies
 
 - [5 Reasons Why Zoom Was Able to Support 300 Million Video Calls a Day](https://newsletter.systemdesign.one/p/zoom-architecture)
+- [How Zapier Automates Billions of Tasks](https://newsletter.systemdesign.one/p/zapier-architecture)
 
 ## Fundamentals
 
