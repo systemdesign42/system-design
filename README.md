@@ -33,7 +33,7 @@
 
 #### B companies
 
-- [Bitly URL Shortener](https://systemdesign.one/url-shortening-system-design/)
+- [Bitly URL Shortener Architecture](https://systemdesign.one/url-shortening-system-design/)
 
 #### C companies
 
