@@ -9,6 +9,8 @@
   :cherries:
 </p>
 
+---
+
 #### [System Design Case Study](#System-Design-Case-Study-1)
 
 |     |     |     |     |     |     |     |     |     |
