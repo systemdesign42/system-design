@@ -127,38 +127,6 @@
 
 #### \# technologies
 
-#### A technologies
-
-- [Actor Model](https://newsletter.systemdesign.one/p/actor-model)
-
-#### C technologies
-
-- [Cell Based Architecture](https://newsletter.systemdesign.one/p/cell-based-architecture)
-- [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
-- [Top 5 Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
-- [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
-
-#### K technologies
-
-
-
-- [How to Scale an App to 10 Million Users on AWS](https://newsletter.systemdesign.one/p/aws-scale)
-- [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
-- [Gossip Protocol](https://systemdesign.one/gossip-protocol/)
-- [Service Discovery](https://systemdesign.one/what-is-service-discovery/)
-- [Consistent Hashing](https://systemdesign.one/consistent-hashing-explained/)
-- [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
-- [Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
-
-
-## Data Structures
-
-- [Quotient Filter](https://systemdesign.one/quotient-filter-explained/)
-- [Bloom Filter](https://systemdesign.one/bloom-filters-explained/)
-
-
-## Miscellaneous
-
 - [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
 - [How to Troubleshoot if You Can’t Access a Particular Website?](https://systemdesign.one/how-to-troubleshoot-if-you-cannot-access-a-website/)
 - [What Happens When You Type a URL Into Your Browser?](https://systemdesign.one/what-happens-when-you-type-url-into-your-browser/)
@@ -166,6 +134,44 @@
 - [Software Engineer Interview Learning Resources](https://systemdesign.one/software-engineer-interview-learning-resources/)
 - [7 Simple Ways to Fail System Design Interview](https://newsletter.systemdesign.one/p/design-system-newsletter)
 
+#### A technologies
+
+- [Actor Model](https://newsletter.systemdesign.one/p/actor-model)
+
+#### B technologies
+
+- [Bloom Filter](https://systemdesign.one/bloom-filters-explained/)
+
+#### C technologies
+
+- [Cell Based Architecture](https://newsletter.systemdesign.one/p/cell-based-architecture)
+- [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
+- [Top 5 Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
+- [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
+- [Consistent Hashing](https://systemdesign.one/consistent-hashing-explained/)
+
+#### G technologies
+
+- [Gossip Protocol](https://systemdesign.one/gossip-protocol/)
+
+#### H technologies
+
+- [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
+
+#### M technologies
+
+- [Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
+- [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
+
+#### Q technologies
+
+- [Quotient Filter](https://systemdesign.one/quotient-filter-explained/)
+
+#### S technologies
+
+- [Service Discovery](https://systemdesign.one/what-is-service-discovery/)
+
+---
 
 ## License
 
