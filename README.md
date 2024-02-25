@@ -121,8 +121,9 @@
 - [5 Reasons Why Zoom Was Able to Support 300 Million Video Calls a Day](https://newsletter.systemdesign.one/p/zoom-architecture)
 - [How Zapier Automates Billions of Tasks](https://newsletter.systemdesign.one/p/zapier-architecture)
 
+---
 
-## Fundamentals
+## System Design Fundamentals
 
 - [Cell Based Architecture](https://newsletter.systemdesign.one/p/cell-based-architecture)
 - [How to Scale an App to 10 Million Users on AWS](https://newsletter.systemdesign.one/p/aws-scale)
