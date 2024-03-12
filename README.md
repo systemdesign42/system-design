@@ -16,7 +16,7 @@
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-companies)  | [A](#a-companies)  | [B](#b-companies)  | [C](#c-companies)  | [D](#d-companies)  | [](#e-companies)  | [](#f-companies)  | [G](#g-companies)  | [H](#h-companies)  |
-| [](#i-companies)  | [](#j-companies)  | [](#k-companies)  | [L](#l-companies)  | [](#m-companies)  | [N](#n-companies)  | [](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
+| [](#i-companies)  | [](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [](#m-companies)  | [N](#n-companies)  | [](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
 | [](#r-companies)  | [S](#s-companies)  | [T](#t-companies)  | [U](#u-companies)  | [V](#v-companies)  | [W](#w-companies)  | [](#x-companies)  | [Y](#y-companies)  | [Z](#z-companies)   |
 
 
@@ -70,6 +70,11 @@
 #### H companies
 
 - [How Hashnode Generates Feed at Scale](https://newsletter.systemdesign.one/p/feed-architecture)
+
+
+#### K companies
+
+- [How Khan Academy Scaled to 30 Million Users](https://newsletter.systemdesign.one/p/khan-academy-architecture)
 
 #### L companies
 
