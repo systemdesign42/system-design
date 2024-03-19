@@ -107,6 +107,7 @@
 
 - [Tumblr Shares Database Migration Strategy With 60+ Billion Rows](https://newsletter.systemdesign.one/p/how-to-migrate-a-mysql-database)
 - [6 Proven Guidelines on Open Sourcing From Tumblr](https://newsletter.systemdesign.one/p/open-source-guidelines)
+- [How Tinder Scaled to 1.6 Billion Swipes per Day](https://newsletter.systemdesign.one/p/tinder-architecture)
 
 #### U companies
 
