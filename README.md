@@ -28,6 +28,16 @@
 | [](#i-technologies)  | [](#j-technologies)  | [](#k-technologies)  | [](#l-technologies)  | [M](#m-technologies)  | [](#n-technologies)  | [](#o-technologies)  | [](#p-technologies)  | [Q](#q-technologies)  |
 | [](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
 
+
+#### [Software White Papers](#Software-White-Papers-1)
+
+|    |    |    |    |    |    |    |    |    |
+|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
+| [](#-technologies)  | [](#a-technologies)  | [](#b-technologies)  | [](#c-technologies)  | [D](#d-white-papers)  | [](#e-technologies)  | [](#f-technologies)  | [](#g-technologies)  | [](#h-technologies)  |
+| [](#i-technologies)  | [](#j-technologies)  | [](#k-technologies)  | [](#l-technologies)  | [](#m-technologies)  | [](#n-technologies)  | [](#o-technologies)  | [](#p-technologies)  | [](#q-technologies)  |
+| [](#r-technologies)  | [](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
+
+
 ---
 
 # System Design
@@ -177,6 +187,14 @@
 #### S technologies
 
 - [Service Discovery](https://systemdesign.one/what-is-service-discovery/)
+
+---
+
+## Software White Papers
+
+#### D white papers
+
+- [Amazon Dynamo](https://newsletter.systemdesign.one/p/amazon-dynamo-architecture)
 
 ---
 
