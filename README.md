@@ -71,6 +71,7 @@
 
 - [How Disney+ Hotstar Delivered 5 Billion Emojis in Real Time](https://newsletter.systemdesign.one/p/hotstar-architecture)
 - [How Disney+ Hotstar Scaled to 25 Million Concurrent Users](https://newsletter.systemdesign.one/p/hotstar-scaling)
+- [How Disney+ Scaled to 11 Million Users on Launch Day](https://newsletter.systemdesign.one/p/disney-architecture)
 - [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
 
 #### G companies
