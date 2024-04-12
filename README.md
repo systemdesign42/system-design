@@ -92,6 +92,7 @@
 - [How LinkedIn Scaled to 930 Million Users](https://newsletter.systemdesign.one/p/scalable-software-architecture)
 - [How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%](https://newsletter.systemdesign.one/p/protocol-buffers-vs-json)
 - [Tech Stack Evolution at Levels fyi](https://newsletter.systemdesign.one/p/levels-fyi-google-sheets)
+- [How Lyft Support Rides to 21 Million Users](https://newsletter.systemdesign.one/p/lyft-engineering)
 
 #### N companies
 
