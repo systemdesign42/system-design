@@ -73,6 +73,7 @@
 - [How Disney+ Hotstar Scaled to 25 Million Concurrent Users](https://newsletter.systemdesign.one/p/hotstar-scaling)
 - [How Disney+ Scaled to 11 Million Users on Launch Day](https://newsletter.systemdesign.one/p/disney-architecture)
 - [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
+- [How Dropbox Scaled to 100 Thousand Users in a Year After Launch](https://newsletter.systemdesign.one/p/dropbox-architecture)
 
 #### G companies
 
