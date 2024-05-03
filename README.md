@@ -16,7 +16,7 @@
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-companies)  | [A](#a-companies)  | [B](#b-companies)  | [C](#c-companies)  | [D](#d-companies)  | [](#e-companies)  | [](#f-companies)  | [G](#g-companies)  | [H](#h-companies)  |
-| [](#i-companies)  | [](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [](#m-companies)  | [N](#n-companies)  | [](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
+| [](#i-companies)  | [](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [M](#m-companies)  | [N](#n-companies)  | [](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
 | [](#r-companies)  | [S](#s-companies)  | [T](#t-companies)  | [U](#u-companies)  | [V](#v-companies)  | [W](#w-companies)  | [](#x-companies)  | [Y](#y-companies)  | [Z](#z-companies)   |
 
 
@@ -94,6 +94,10 @@
 - [How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%](https://newsletter.systemdesign.one/p/protocol-buffers-vs-json)
 - [Tech Stack Evolution at Levels fyi](https://newsletter.systemdesign.one/p/levels-fyi-google-sheets)
 - [How Lyft Support Rides to 21 Million Users](https://newsletter.systemdesign.one/p/lyft-engineering)
+
+#### M companies
+
+- [How McDonald’s Food Delivery Platform Handles 20,000 Orders per Second](https://newsletter.systemdesign.one/p/mcdonalds-architecture)
 
 #### N companies
 
