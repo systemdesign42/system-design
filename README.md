@@ -13,7 +13,6 @@
 
 #### [System Design Case Study](#System-Design-Case-Study-1)
 
-|     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-companies)  | [A](#a-companies)  | [B](#b-companies)  | [C](#c-companies)  | [D](#d-companies)  | [](#e-companies)  | [](#f-companies)  | [G](#g-companies)  | [H](#h-companies)  |
 | [](#i-companies)  | [](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [M](#m-companies)  | [N](#n-companies)  | [](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
