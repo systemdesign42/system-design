@@ -119,6 +119,7 @@
 - [Virtual Waiting Room Architecture That Handles High-Demand Ticket Sales at SeatGeek](https://newsletter.systemdesign.one/p/virtual-waiting-room)
 - [How Shopify Handles Flash Sales at 32 Million Requests per Minute](https://newsletter.systemdesign.one/p/shopify-flash-sale)
 - [This Is How Stripe Does Rate Limiting to Build Scalable APIs](https://newsletter.systemdesign.one/p/rate-limiter)
+- [How Stripe Prevents Double Payment Using Idempotent API](https://newsletter.systemdesign.one/p/idempotent-api)
 
 #### T companies
 
