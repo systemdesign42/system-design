@@ -15,7 +15,7 @@
 
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-companies)  | [A](#a-companies)  | [B](#b-companies)  | [C](#c-companies)  | [D](#d-companies)  | [](#e-companies)  | [](#f-companies)  | [G](#g-companies)  | [H](#h-companies)  |
+| [#](#-companies)  | [A](#a-companies)  | [B](#b-companies)  | [C](#c-companies)  | [D](#d-companies)  | [](#e-companies)  | [F](#f-companies)  | [G](#g-companies)  | [H](#h-companies)  |
 | [](#i-companies)  | [](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [M](#m-companies)  | [N](#n-companies)  | [](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
 | [R](#r-companies)  | [S](#s-companies)  | [T](#t-companies)  | [U](#u-companies)  | [V](#v-companies)  | [W](#w-companies)  | [](#x-companies)  | [Y](#y-companies)  | [Z](#z-companies)   |
 
@@ -74,6 +74,11 @@
 - [How Disney+ Scaled to 11 Million Users on Launch Day](https://newsletter.systemdesign.one/p/disney-architecture)
 - [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
 - [How Dropbox Scaled to 100 Thousand Users in a Year After Launch](https://newsletter.systemdesign.one/p/dropbox-architecture)
+
+#### F companies
+
+- [How Facebook Scaled Live Video to a Billion Users](https://newsletter.systemdesign.one/p/live-streaming-architecture)
+
 
 #### G companies
 
