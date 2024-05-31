@@ -149,6 +149,7 @@
 #### Y companies
 
 - [11 Reasons Why YouTube Was Able to Support 100 Million Video Views a Day With Only 9 Engineers](https://newsletter.systemdesign.one/p/youtube-scalability)
+- [How YouTube Was Able to Support 2.49 Billion Users With MySQL](https://newsletter.systemdesign.one/p/vitess-mysql)
 
 #### Z companies
 
