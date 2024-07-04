@@ -87,6 +87,7 @@
 #### H companies
 
 - [How Hashnode Generates Feed at Scale](https://newsletter.systemdesign.one/p/feed-architecture)
+- [How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern](https://newsletter.systemdesign.one/p/saga-design-pattern)
 
 #### I companies
 
