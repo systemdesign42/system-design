@@ -108,6 +108,7 @@
 #### M companies
 
 - [How McDonald’s Food Delivery Platform Handles 20,000 Orders per Second](https://newsletter.systemdesign.one/p/mcdonalds-architecture)
+- [How Meta Achieves 99.99999999% Cache Consistency](https://newsletter.systemdesign.one/p/cache-consistency)
 
 #### N companies
 
