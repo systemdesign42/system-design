@@ -114,6 +114,7 @@
 
 - [How Does Netflix Work?](https://newsletter.systemdesign.one/p/how-does-netflix-work)
 - [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
+- [How Netflix Uses Chaos Engineering to Create Resilience Systems](https://newsletter.systemdesign.one/p/chaos-engineering)
 
 #### P companies
 
