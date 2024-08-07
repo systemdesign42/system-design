@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
+  👋
   <a href="https://newsletter.systemdesign.one/">
     <b> Join Newsletter </b>
   </a>
-  :cherries:
 </p>
 
 ---
