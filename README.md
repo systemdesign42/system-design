@@ -83,6 +83,7 @@
 #### G companies
 
 - [How Giphy Delivers 10 Billion GIFs a Day to 1 Billion Users](https://newsletter.systemdesign.one/p/cdn-explained)
+- [How to Scale an App to 100 Million Users on GCP](https://newsletter.systemdesign.one/p/google-cloud-scalability)
 
 #### H companies
 
