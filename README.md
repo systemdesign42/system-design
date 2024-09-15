@@ -177,6 +177,7 @@
 - [System Design Interview Cheat Sheet](https://systemdesign.one/system-design-interview-cheatsheet/)
 - [Software Engineer Interview Learning Resources](https://systemdesign.one/software-engineer-interview-learning-resources/)
 - [7 Simple Ways to Fail System Design Interview](https://newsletter.systemdesign.one/p/design-system-newsletter)
+- [Amazon Frugal Architecture Explained](https://newsletter.systemdesign.one/p/frugal-architecture)
 
 #### A technologies
 
