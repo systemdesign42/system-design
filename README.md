@@ -79,6 +79,7 @@
 #### F companies
 
 - [How Facebook Scaled Live Video to a Billion Users](https://newsletter.systemdesign.one/p/live-streaming-architecture)
+- [How Facebook Was Able to Support a Billion Users via Software Load Balancer](https://newsletter.systemdesign.one/p/facebook-load-balancer)
 
 
 #### G companies
