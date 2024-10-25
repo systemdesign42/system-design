@@ -58,6 +58,7 @@
 - [Amazon Prime Video Microservices Top Failure](https://newsletter.systemdesign.one/p/prime-video-microservices)
 - [How Amazon S3 Achieves 99.999999999% Durability](https://newsletter.systemdesign.one/p/amazon-s3-durability)
 - [How Amazon Lambda Works](https://newsletter.systemdesign.one/p/how-does-aws-lambda-work)
+- [How Amazon S3 Works](https://newsletter.systemdesign.one/p/s3-architecture)
 
 #### B companies
 
