@@ -25,7 +25,7 @@
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [](#e-technologies)  | [](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
-| [](#i-technologies)  | [](#j-technologies)  | [](#k-technologies)  | [](#l-technologies)  | [M](#m-technologies)  | [](#n-technologies)  | [](#o-technologies)  | [](#p-technologies)  | [Q](#q-technologies)  |
+| [](#i-technologies)  | [](#j-technologies)  | [](#k-technologies)  | [](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [](#p-technologies)  | [Q](#q-technologies)  |
 | [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
 
 
@@ -216,6 +216,10 @@
 
 - [Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
 - [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
+
+#### N technologies
+
+- [How Nginx Was Able to Support 1 Million Concurrent Connections on a Single Server](https://newsletter.systemdesign.one/p/how-does-nginx-work)
 
 #### Q technologies
 
