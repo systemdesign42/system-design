@@ -216,6 +216,7 @@
 
 - [Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
 - [Microservices Lessons From Netflix](https://newsletter.systemdesign.one/p/netflix-microservices)
+- [How Shopify Handled 30TB per Minute With a Modular Monolith Architecture](https://newsletter.systemdesign.one/p/modular-monolith)
 
 #### N technologies
 
