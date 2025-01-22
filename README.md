@@ -64,6 +64,7 @@
 #### B companies
 
 - [Bitly URL Shortener Architecture](https://systemdesign.one/url-shortening-system-design/)
+- [How Does Bluesky Work](https://newsletter.systemdesign.one/p/how-does-bluesky-work)
 
 #### C companies
 
