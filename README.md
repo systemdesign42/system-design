@@ -26,7 +26,7 @@
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [](#e-technologies)  | [](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
 | [](#i-technologies)  | [](#j-technologies)  | [](#k-technologies)  | [](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [](#p-technologies)  | [Q](#q-technologies)  |
-| [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
+| [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [W](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
 
 
 #### [Software White Papers](#Software-White-Papers-1)
@@ -236,6 +236,10 @@
 #### S technologies
 
 - [Service Discovery](https://systemdesign.one/what-is-service-discovery/)
+
+#### W technologies
+
+- [How Do Websockets Work](https://newsletter.systemdesign.one/p/how-do-websockets-work)
 
 ---
 
