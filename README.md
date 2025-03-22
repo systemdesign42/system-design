@@ -1,5 +1,5 @@
 <p>
-  <a href="https://newsletter.systemdesign.one/"><img src="https://i.imgur.com/lhT3wOX.jpeg" /> </a>
+  <a href="https://newsletter.systemdesign.one/"><img src="https://i.imgur.com/Cx6eac2.png" /> </a>
 </p>
 
 <p align="center">
