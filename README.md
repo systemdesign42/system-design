@@ -2,11 +2,12 @@
   <a href="https://newsletter.systemdesign.one/"><img src="https://i.imgur.com/Cx6eac2.png" /> </a>
 </p>
 
-<div align="center">
-  
-  [![Subscribe to System Design Newsletter](./newsletter.svg)](https://newsletter.systemdesign.one/)
-
-</div>
+<p align="center">
+   👋
+   <a href="https://newsletter.systemdesign.one/">
+     <b> Join Newsletter </b>
+   </a>
+ </p>
 
 ---
 
