@@ -7,7 +7,6 @@
   <a href="https://newsletter.systemdesign.one/">
     <b> Join Newsletter </b>
   </a>
-  [![Subscribe to System Design Newsletter](join-newsletter.svg)](https://newsletter.systemdesign.one)
 </p>
 
 ---
