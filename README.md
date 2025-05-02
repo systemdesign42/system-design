@@ -206,6 +206,7 @@
 #### D technologies
 
 - [How Databases Keep Passwords Securely](https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database)
+- [How DNS Works](https://newsletter.systemdesign.one/p/what-is-a-dns-server-and-how-does-it-work)
 
 
 #### G technologies
