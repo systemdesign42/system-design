@@ -25,7 +25,7 @@
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [](#e-technologies)  | [](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
-| [](#i-technologies)  | [](#j-technologies)  | [](#k-technologies)  | [](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [](#p-technologies)  | [Q](#q-technologies)  |
+| [](#i-technologies)  | [J](#j-technologies)  | [](#k-technologies)  | [](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [](#p-technologies)  | [Q](#q-technologies)  |
 | [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [W](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
 
 
@@ -216,6 +216,10 @@
 #### H technologies
 
 - [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
+
+#### J technologies
+
+- [How JWT Works](https://newsletter.systemdesign.one/p/how-jwt-works)
 
 #### M technologies
 
