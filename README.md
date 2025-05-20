@@ -1,11 +1,11 @@
 <p>
-  <a href="https://newsletter.systemdesign.one/"><img src="https://i.imgur.com/Cx6eac2.png" /> </a>
+  <a href="https://newsletter.systemdesign.one/"><img src="https://i.imgur.com/WihxTT7.png" /> </a>
 </p>
 
 <p align="center">
    👋
    <a href="https://newsletter.systemdesign.one/">
-     <b> Join Newsletter </b>
+     <b> Try Newsletter </b>
    </a>
  </p>
 
