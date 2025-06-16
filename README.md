@@ -189,7 +189,7 @@
 #### A technologies
 
 - [Actor Model](https://newsletter.systemdesign.one/p/actor-model)
-- [How API Gateway Works](newsletter.systemdesign.one/p/how-api-gateway-works)
+- [How API Gateway Works](https://newsletter.systemdesign.one/p/how-api-gateway-works)
 
 #### B technologies
 
