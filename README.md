@@ -137,6 +137,7 @@
 #### R companies
 
 - [How Razorpay Scaled to Handle Flash Sales at 1500 Requests per Second](https://newsletter.systemdesign.one/p/payment-gateway-architecture)
+- [How Reddit Works](https://newsletter.systemdesign.one/p/reddit-architecture)
 
 #### S companies
 
