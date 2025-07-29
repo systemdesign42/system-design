@@ -61,6 +61,7 @@
 - [How Amazon S3 Works](https://newsletter.systemdesign.one/p/s3-architecture)
 - [How Do Apple AirTags Work](https://newsletter.systemdesign.one/p/how-do-airtags-work)
 - [How Apple Pay Handles 41 Million Transactions a Day Securely](https://newsletter.systemdesign.one/p/how-does-apple-pay-work)
+- [How Amazon S3 Achieves Strong Consistency](https://newsletter.systemdesign.one/p/s3-strong-consistency)
 
 #### B companies
 
