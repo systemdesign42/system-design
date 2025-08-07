@@ -222,6 +222,7 @@
 #### H technologies
 
 - [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
+- [How Does HTTPS Work](https://newsletter.systemdesign.one/p/how-does-https-work)
 
 #### J technologies
 
