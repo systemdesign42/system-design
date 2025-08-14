@@ -262,6 +262,7 @@
 #### W technologies
 
 - [How Do Websockets Work](https://newsletter.systemdesign.one/p/how-do-websockets-work)
+- [How Do Webhooks Work](https://newsletter.systemdesign.one/p/how-do-webhooks-work)
 
 ---
 
