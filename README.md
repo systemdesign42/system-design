@@ -223,6 +223,7 @@
 
 - [Hinted Handoff](https://systemdesign.one/hinted-handoff/)
 - [How Does HTTPS Work](https://newsletter.systemdesign.one/p/how-does-https-work)
+- [Must Know HTTP Headers](https://newsletter.systemdesign.one/p/http-headers)
 
 #### J technologies
 
