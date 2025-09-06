@@ -194,6 +194,7 @@
 - [Actor Model](https://newsletter.systemdesign.one/p/actor-model)
 - [How API Gateway Works](newsletter.systemdesign.one/p/how-api-gateway-works)
 - [API Gateway vs Load Balancer vs Reverse Proxy](https://newsletter.systemdesign.one/p/api-gateway-load-balancer-reverse-proxy)
+- [Best Practices for API Design](https://newsletter.systemdesign.one/p/best-practices-for-api-design)
 
 #### B technologies
 
