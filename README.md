@@ -188,6 +188,7 @@
 - [Software Engineer Interview Learning Resources](https://systemdesign.one/software-engineer-interview-learning-resources/)
 - [7 Simple Ways to Fail System Design Interview](https://newsletter.systemdesign.one/p/design-system-newsletter)
 - [Amazon Frugal Architecture Explained](https://newsletter.systemdesign.one/p/frugal-architecture)
+- [11 System Design Concepts Explained, Simply](https://newsletter.systemdesign.one/p/11-system-design-concepts-explained)
 
 #### A technologies
 
