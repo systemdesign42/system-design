@@ -260,6 +260,7 @@
 #### R technologies
 
 - [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
+- [Rate Limiting Strategies Explained](https://newsletter.systemdesign.one/p/rate-limiting)
 
 #### S technologies
 
