@@ -25,7 +25,7 @@
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [](#e-technologies)  | [](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
-| [](#i-technologies)  | [J](#j-technologies)  | [](#k-technologies)  | [L](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [P](#p-technologies)  | [Q](#q-technologies)  |
+| [](#i-technologies)  | [J](#j-technologies)  | [K](#k-technologies)  | [L](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [P](#p-technologies)  | [Q](#q-technologies)  |
 | [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [W](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
 
 
@@ -233,6 +233,10 @@
 #### J technologies
 
 - [How JWT Works](https://newsletter.systemdesign.one/p/how-jwt-works)
+
+#### K technologies
+
+- [How Kafka Works](https://newsletter.systemdesign.one/p/how-kafka-works)
 
 #### L technologies
 
