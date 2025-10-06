@@ -29,6 +29,16 @@
 | [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [W](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
 
 
+#### [System Design Interview](#System-Design-Interview-1)
+
+|    |    |    |    |    |    |    |    |    |
+|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
+| [](#-interview)  | [](#a-interview)  | [](#b-interview)  | [](#c-interview)  | [](#d-interview)  | [](#e-interview)  | [](#f-interview)  | [](#g-interview)  | [](#h-interview)  |
+| [](#i-interview)  | [](#j-interview)  | [](#k-interview)  | [](#l-interview)  | [](#m-interview)  | [](#n-interview)  | [](#o-interview)  | [](#p-interview)  | [](#q-interview)  |
+| [](#r-interview)  | [S](#s-interview)  | [](#t-interview)  | [](#u-interview)  | [](#v-interview)  | [](#w-interview)  | [](#x-interview)  | [](#y-interview)  | [](#z-interview) |
+
+
+
 #### [Software White Papers](#Software-White-Papers-1)
 
 |    |    |    |    |    |    |    |    |    |
@@ -276,6 +286,13 @@
 
 - [How Do Websockets Work](https://newsletter.systemdesign.one/p/how-do-websockets-work)
 - [How Do Webhooks Work](https://newsletter.systemdesign.one/p/how-do-webhooks-work)
+
+---
+
+## System Design Interview
+
+#### S interview
+- [System Design Interview: Design Spotify](https://newsletter.systemdesign.one/p/spotify-system-design)
 
 ---
 
