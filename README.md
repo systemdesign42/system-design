@@ -45,7 +45,7 @@
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [](#-white-papers)  | [](#a-white-papers)  | [](#b-white-papers)  | [](#c-white-papers)  | [D](#d-white-papers)  | [](#e-white-papers)  | [](#f-white-papers)  | [](#g-white-papers)  | [](#h-white-papers)  |
 | [](#i-white-papers)  | [](#j-white-papers)  | [](#k-white-papers)  | [](#l-white-papers)  | [](#m-white-papers)  | [](#n-white-papers)  | [](#o-white-papers)  | [](#p-white-papers)  | [](#q-white-papers)  |
-| [](#r-white-papers)  | [S](#s-white-papers)  | [](#t-white-papers)  | [](#u-white-papers)  | [](#v-white-papers)  | [](#w-white-papers)  | [](#x-white-papers)  | [](#y-white-papers)  | [](#z-white-papers) |
+| [](#r-white-papers)  | [S](#s-white-papers)  | [](#t-white-papers)  | [](#u-white-papers)  | [](#v-white-papers)  | [](#w-white-papers)  | [X](#x-white-papers)  | [](#y-white-papers)  | [](#z-white-papers) |
 
 
 ---
@@ -306,6 +306,11 @@
 #### S white papers
 
 - [Google Spanner](https://newsletter.systemdesign.one/p/cloud-spanner-database)
+
+
+#### X white papers
+
+- [Meta Serverless Architecture: XFaaS](https://newsletter.systemdesign.one/p/serverless-architecture)
 
 ---
 
