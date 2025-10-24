@@ -281,6 +281,7 @@
 
 - [Service Discovery](https://systemdesign.one/what-is-service-discovery/)
 - [How Sidecar Pattern Works](https://newsletter.systemdesign.one/p/sidecar-pattern)
+- [Stacked Diffs, Simply Explained](https://newsletter.systemdesign.one/p/stacked-diffs)
 
 #### W technologies
 
