@@ -276,6 +276,7 @@
 
 - [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
 - [Rate Limiting Strategies Explained](https://newsletter.systemdesign.one/p/rate-limiting)
+- [How Remote Procedure Call Works](https://newsletter.systemdesign.one/p/how-rpc-works)
 
 #### S technologies
 
