@@ -252,6 +252,7 @@
 #### L technologies
 
 - [How Load Balancing Algorithms Work](https://newsletter.systemdesign.one/p/load-balancing-algorithms)
+- [LLM Concepts, Simply Explained](https://newsletter.systemdesign.one/p/llm-concepts)
 
 #### M technologies
 
