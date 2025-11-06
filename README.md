@@ -234,6 +234,7 @@
 #### G technologies
 
 - [Gossip Protocol](https://systemdesign.one/gossip-protocol/)
+- [21 Git Commands](https://newsletter.systemdesign.one/p/commands-in-git)
 
 #### H technologies
 
