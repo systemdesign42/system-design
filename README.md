@@ -24,7 +24,7 @@
 
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [](#e-technologies)  | [](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
+| [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [](#e-technologies)  | [F](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
 | [](#i-technologies)  | [J](#j-technologies)  | [K](#k-technologies)  | [L](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [P](#p-technologies)  | [Q](#q-technologies)  |
 | [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [W](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
 
@@ -229,6 +229,11 @@
 - [How Databases Keep Passwords Securely](https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database)
 - [How DNS Works](https://newsletter.systemdesign.one/p/what-is-a-dns-server-and-how-does-it-work)
 - [Deployment Patterns](https://newsletter.systemdesign.one/p/deployment-patterns)
+
+
+
+#### F technologies
+- [21 Frontend System Design Concepts for Software Engineers](https://newsletter.systemdesign.one/p/frontend-system-design)
 
 
 #### G technologies
