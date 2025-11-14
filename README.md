@@ -5,7 +5,7 @@
 <p align="center">
    👋
    <a href="https://newsletter.systemdesign.one/subscribe">
-     <b> Try Newsletter </b>
+     <b> Join Newsletter </b>
    </a>
  </p>
 
