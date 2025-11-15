@@ -219,6 +219,7 @@
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [Top 5 Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
 - [How to Scale Code Reviews](https://newsletter.systemdesign.one/p/how-to-do-code-review)
+- [Code Review Best Practices](https://newsletter.systemdesign.one/p/code-review-best-practices)
 - [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
 - [Consistent Hashing](https://systemdesign.one/consistent-hashing-explained/)
 - [Concurrency Is Not Parallelism](https://newsletter.systemdesign.one/p/concurrency-is-not-parallelism)
