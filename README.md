@@ -291,6 +291,7 @@
 - [Service Discovery](https://systemdesign.one/what-is-service-discovery/)
 - [How Sidecar Pattern Works](https://newsletter.systemdesign.one/p/sidecar-pattern)
 - [Stacked Diffs, Simply Explained](https://newsletter.systemdesign.one/p/stacked-diffs)
+- [How Stock Exchange Works - Part 1](https://newsletter.systemdesign.one/p/stock-exchange-system-design)
 
 #### W technologies
 
