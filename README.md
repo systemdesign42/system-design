@@ -223,6 +223,7 @@
 - [How Discord Boosts Performance With Code-Splitting](https://newsletter.systemdesign.one/p/what-is-code-splitting-in-react)
 - [Consistent Hashing](https://systemdesign.one/consistent-hashing-explained/)
 - [Concurrency Is Not Parallelism](https://newsletter.systemdesign.one/p/concurrency-is-not-parallelism)
+- [15 Pitfalls That Break Cloud Systems](https://newsletter.systemdesign.one/p/cloud-system-design)
 
 
 #### D technologies
