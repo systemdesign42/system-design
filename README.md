@@ -295,6 +295,7 @@
 - [Stacked Diffs, Simply Explained](https://newsletter.systemdesign.one/p/stacked-diffs)
 - [How Stock Exchange Works - Part 1](https://newsletter.systemdesign.one/p/stock-exchange-system-design)
 - [How Stock Exchange Handles Concurrency at Scale - Part 2](https://newsletter.systemdesign.one/p/disruptor-pattern)
+- [Design Stock Exchange: A Deep Dive - Part 3](https://newsletter.systemdesign.one/p/system-design-stock-exchange)
 
 #### W technologies
 
