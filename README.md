@@ -337,6 +337,19 @@
 
 ---
 
+<p>
+  <a href="https://newsletter.systemdesign.one/subscribe"><img src="https://i.imgur.com/7pV1SWj.png" /> </a>
+</p>
+
+<p align="center">
+   👋
+   <a href="https://newsletter.systemdesign.one/subscribe">
+     <b> Join Newsletter Now </b>
+   </a>
+ </p>
+
+---
+
 ## License
 
 <p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0</p>
