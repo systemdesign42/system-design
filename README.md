@@ -429,6 +429,7 @@
 #### V ai
 
 - [Vector Database - A Deep Dive](https://newsletter.systemdesign.one/p/what-is-a-vector-database)
+- [Vertical Small LLM](https://newsletter.systemdesign.one/p/fine-tuning-small-language-models)
 
 
 ---
