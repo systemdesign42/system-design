@@ -1,12 +1,16 @@
 <p>
-  <a href="https://newsletter.systemdesign.one/join"><img src="https://i.imgur.com/7pV1SWj.png" /> </a>
+  <a href="https://getunblocked.link/o8ACA6X"><img src="https://i.imgur.com/ofqRazl.png" /> </a>
 </p>
 
 <p align="center">
    👋
-   <a href="https://newsletter.systemdesign.one/join">
-     <b> Join Newsletter </b>
+   <a href="https://getunblocked.link/o8ACA6X">
+     <b> Register to Join Live Aug 19 </b>
    </a>
+</p>
+<p align="center">
+     AI is in your development workflow. While the token spend shows it, the throughput doesn't. The human is very much still in the loop, and that's a context problem. Join live (FREE) on Aug 19 to see why teams get stuck and how leading teams use a context engine to fix it. (Thanks to Unblocked for sponsoring this page.)
+   
  </p>
 
 ---
