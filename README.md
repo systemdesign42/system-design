@@ -3,16 +3,15 @@
 </p>
 
 <p align="center">
+     AI is in your development workflow. While the token spend shows it, the throughput doesn't. The human is very much still in the loop, and that's a context problem. <a href="https://getunblocked.link/o8ACA6X"> Join live (FREE) on Aug 19 </a> to see why teams get stuck and how leading teams use a context engine to fix it. (Thanks to Unblocked for sponsoring this page.)
+ </p>
+
+<p align="center">
    👋
    <a href="https://getunblocked.link/o8ACA6X">
      <b> Register to Join Live Aug 19 </b>
    </a>
 </p>
-<p align="center">
-     AI is in your development workflow. While the token spend shows it, the throughput doesn't. The human is very much still in the loop, and that's a context problem. Join live (FREE) on Aug 19 to see why teams get stuck and how leading teams use a context engine to fix it. (Thanks to Unblocked for sponsoring this page.)
-   
- </p>
-
 ---
 
 
