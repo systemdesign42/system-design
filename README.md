@@ -305,6 +305,7 @@
 #### P technologies
 
 - [Forward proxy vs Reverse proxy](https://newsletter.systemdesign.one/p/forward-proxy-vs-reverse-proxy)
+- [10 System Design Patterns](https://newsletter.systemdesign.one/p/system-design-patterns)
 
 #### Q technologies
 
