@@ -63,7 +63,7 @@
 
 ---
 
-# System Design
+# System Design Academy
 
 ## System Design Case Study
 
