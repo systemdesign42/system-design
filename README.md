@@ -430,6 +430,7 @@
 
 - [What Is Reinforcement Learning](https://newsletter.systemdesign.one/p/what-is-reinforcement-learning)
 - [How RAG Works](https://newsletter.systemdesign.one/p/how-rag-works)
+- [How AI Research Agent Works](https://newsletter.systemdesign.one/p/how-to-build-an-ai-research-agent-with-mcp)
 
 #### V ai
 
