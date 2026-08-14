@@ -48,7 +48,7 @@
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [D](#d-ai)  | [E](#e-ai)  | [](#f-ai)  | [G](#g-ai)  | [](#h-ai)  |
-| [I](#i-ai)  | [](#j-ai)  | [K](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [N](#n-ai)  | [O](#o-ai)  | [](#p-ai)  | [](#q-ai)  |
+| [I](#i-ai)  | [](#j-ai)  | [K](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [N](#n-ai)  | [O](#o-ai)  | [P](#p-ai)  | [](#q-ai)  |
 | [R](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [V](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
 
@@ -425,6 +425,10 @@
 #### O ai
 
 - [How OpenClaw Works](https://newsletter.systemdesign.one/p/openclaw-architecture)
+
+#### P ai
+
+- [Prompt Engineering - A Deep Dive](https://newsletter.systemdesign.one/p/prompt-engineering-guide)
 
 #### R ai
 
