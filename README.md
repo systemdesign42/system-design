@@ -63,6 +63,19 @@
 
 ---
 
+<p>
+  <a href="https://newsletter.systemdesign.one/join"><img src="https://i.imgur.com/7pV1SWj.png" /> </a>
+</p>
+
+<p align="center">
+   👋
+   <a href="https://newsletter.systemdesign.one/join">
+     <b> Join Newsletter Now </b>
+   </a>
+ </p>
+
+---
+
 # System Design Academy
 
 ## System Design Case Study
