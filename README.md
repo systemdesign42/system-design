@@ -1,15 +1,17 @@
 <p>
-  <a href="https://getunblocked.link/o8ACA6X"><img src="https://i.imgur.com/ofqRazl.png" /> </a>
+  <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign"><img src="https://i.imgur.com/uoM63Xs.png" /> </a>
 </p>
 
 <p align="center">
-     AI is in your development workflow. While the token spend shows it, the throughput doesn't. The human is very much still in the loop, and that's a context problem. <a href="https://getunblocked.link/o8ACA6X"> Join live (FREE) on Aug 19 </a> to see why teams get stuck and how leading teams use a context engine to fix it. (Thanks to Unblocked for sponsoring this page.)
+<a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign"> [Webinar] How to stop babysitting your agents </a> (Sponsored by <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign"> Unblocked</a>)
+  
+Agents can generate code. Getting it right for your system is the hard part. You end up wasting time and tokens in the back and forth. More MCPs solve access but not understanding. Join us for a FREE webinar on Sep 2 to see how to give agents exactly what they need the first time (includes live demo).
  </p>
 
 <p align="center">
    👋
-   <a href="https://getunblocked.link/o8ACA6X">
-     <b> Register to Join Live Aug 19 </b>
+   <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">
+     <b> Register now </b>
    </a>
 </p>
 
