@@ -49,7 +49,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 
 |    |    |    |    |    |    |    |    |    |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [D](#d-ai)  | [E](#e-ai)  | [](#f-ai)  | [G](#g-ai)  | [](#h-ai)  |
+| [#](#-ai)  | [A](#a-ai)  | [](#b-ai)  | [C](#c-ai)  | [D](#d-ai)  | [E](#e-ai)  | [F](#f-ai)  | [G](#g-ai)  | [](#h-ai)  |
 | [I](#i-ai)  | [](#j-ai)  | [K](#k-ai)  | [L](#l-ai)  | [M](#m-ai)  | [N](#n-ai)  | [O](#o-ai)  | [P](#p-ai)  | [](#q-ai)  |
 | [R](#r-ai)  | [](#s-ai)  | [](#t-ai)  | [](#u-ai)  | [V](#v-ai)  | [](#w-ai)  | [](#x-ai)  | [](#y-ai)  | [](#z-ai) |
 
@@ -411,6 +411,9 @@ Agents can generate code. Getting it right for your system is the hard part. You
 
 #### E ai
 - [29 LLM Evaluation Concepts](https://newsletter.systemdesign.one/p/llm-evals)
+
+#### F ai
+- [How Fine Tuning Works](https://newsletter.systemdesign.one/p/llm-fine-tuning-guide-with-lora-and-qlora)
 
 #### G ai
 - [Everything You Need to Know to Design GenAI Systems From Scratch](https://newsletter.systemdesign.one/p/generative-ai-system-design)
