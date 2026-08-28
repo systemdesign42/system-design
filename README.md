@@ -267,6 +267,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [Cybersecurity Terms Every Software Engineer Must Know](https://newsletter.systemdesign.one/p/cybersecurity-fundamentals)
 - [The Entire Computer Science Stack, Explained In 51 Images](https://newsletter.systemdesign.one/p/computer-science-101)
 - [How CDN Works](https://newsletter.systemdesign.one/p/how-does-cdn-work)
+- [How CI/CD Works](https://newsletter.systemdesign.one/p/how-does-a-ci-cd-pipeline-work)
 
 
 #### D technologies
