@@ -248,6 +248,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [Best Practices for API Security](https://newsletter.systemdesign.one/p/api-security-best-practices)
 - [API Versioning](https://newsletter.systemdesign.one/p/api-versioning)
 - [High Performance APIs](https://newsletter.systemdesign.one/p/api-performance)
+- [API Testing Techniques - Part 1](https://newsletter.systemdesign.one/p/api-testing-types)
 
 #### B technologies
 
