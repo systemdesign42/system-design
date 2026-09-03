@@ -33,7 +33,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [](#e-technologies)  | [F](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
 | [](#i-technologies)  | [J](#j-technologies)  | [K](#k-technologies)  | [L](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [P](#p-technologies)  | [Q](#q-technologies)  |
-| [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [W](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
+| [R](#r-technologies)  | [S](#s-technologies)  | [T](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [W](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
 
 
 #### [System Design Interview](#System-Design-Interview-1)
@@ -346,6 +346,9 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [How Stock Exchange Works - Part 1](https://newsletter.systemdesign.one/p/stock-exchange-system-design)
 - [How Stock Exchange Handles Concurrency at Scale - Part 2](https://newsletter.systemdesign.one/p/disruptor-pattern)
 - [Design Stock Exchange: A Deep Dive - Part 3](https://newsletter.systemdesign.one/p/system-design-stock-exchange)
+
+#### T technologies
+- [50 System Design Tradeoffs](https://newsletter.systemdesign.one/p/system-design-tradeoffs)
 
 #### W technologies
 
